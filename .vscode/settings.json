@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/thanhdc/.local/share/virtualenvs/flask-tutorial-RPORTrf2/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.enabled": true
+}
